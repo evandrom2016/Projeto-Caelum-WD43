@@ -1,0 +1,13 @@
+body {
+	color: #333333;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+header {
+	position: relative;
+}
+
+.container {
+	margin: 0 auto;
+	width: 940px;
+}
